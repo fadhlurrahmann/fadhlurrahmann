@@ -8,9 +8,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/fadhlurrahmann"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<!-- <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p> -->
+<p align="center">
+<a href="https://www.buymeacoffee.com/fadhlurrahman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=fadhlurrahmann&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -24,7 +24,8 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 I’m currently looking for a job, frefer as a Data Analyst
 <!-- - 🌱 Exploring Technical Content Writing. -->
 - ⚡ In my free time I learn and improve my skill in Data field
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hilmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadhlurrahmann)
+- 📫 How to reach me: &nbsp; 
+[<img src="https://img.shields.io/badge/Email-fadhlurrahmanhilmi0@gmail.com-red">](mailto:fadhlurrahmanhilmi@gmail.com)
 
 ---
 
@@ -41,13 +42,29 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fadhlurrahmann&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=fadhlurrahmann&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlurrahmann&layout=compact&theme=vision-friendly-dark)](https://github.com/fadhlurrahmann/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide=issues,contribs) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fadhlurrahmann&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/fadhlurrahmann/github-readme-stats) -->
 
 
+<p align="center">
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-streak-stats.herokuapp.com?user=fadhlurrahmann&theme=vision-friendly-dark&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhlurrahmann&theme=vision-friendly-dark&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&theme=vision-friendly-dark&show_icons=true&hide=issues,contribs" /></a>
+</p>
+  
+<!-- <p align="center">
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-profile-trophy.vercel.app/?username=fadhlurrahmann&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p> -->
