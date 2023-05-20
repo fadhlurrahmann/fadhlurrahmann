@@ -9,7 +9,12 @@
 <a href="https://www.linkedin.com/in/fadhlurrahmann"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/fadhlurrahman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<!-- <a href="https://www.buymeacoffee.com/fadhlurrahman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> -->
+
+<p align="center">
+  <a href='https://ko-fi.com/M4M1LGB58' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=fadhlurrahmann&style=flat-square&color=blue" alt=""></p>
 
@@ -54,15 +59,15 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 <p align="center">
-  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-streak-stats.herokuapp.com?user=fadhlurrahmann&theme=vision-friendly-dark&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-streak-stats.herokuapp.com?user=fadhlurrahmann&theme=dark&background=242327&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhlurrahmann&theme=vision-friendly-dark&layout=compact" /></a>
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=242327&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&theme=vision-friendly-dark&show_icons=true&hide=issues,contribs" /></a>
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=242327&show_icons=true&hide=issues,contribs" /></a>
 </p>
   
 <!-- <p align="center">
