@@ -21,8 +21,10 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
-<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="600" height="300"/></p>
+<!-- <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="600" height="300"/></p> -->
 <!-- <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="600" height="300"/></p> -->
+<p align="center"><img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y4ZDY4NTI2NWIyZTg5YzRhMzQ5N2U1NTQ5Y2Q0MDllMDg5NzkxNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jRf5fsn8G6YaogAWxn/giphy.gif)" width="600" height="300"  /></p>
+
 
 ### :man_technologist: &nbsp;About Me :
 
