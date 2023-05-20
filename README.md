@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Hilmi;i'am+a+data+enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=35&width=800&lines=Hello,+i'm+Hilmi;i'am+a+Data+Enthusiast">
   </a>
 </h1>
 
@@ -26,7 +26,7 @@
 
 I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 🔭 I’m currently looking for a job, frefer as a Data Analyst
+- 🔭 I’m currently looking for a job, prefer as a Data Analyst
 <!-- - 🌱 Exploring Technical Content Writing. -->
 - ⚡ In my free time I learn and improve my skill in Data field
 - 📫 How to reach me: &nbsp; 
