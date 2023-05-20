@@ -1,10 +1,9 @@
-<h1 align="center">
+<summary><h1 align="center">
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=35&width=800&lines=Hello,+i'm+Hilmi;i'am+a+Data+Enthusiast">
   </a>
+</h1></summary>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</h1>
-
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
