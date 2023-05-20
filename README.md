@@ -27,7 +27,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y4ZDY4NTI2NWIyZTg5YzRhMzQ5N2U1NTQ5Y2Q0MDllMDg5NzkxNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jRf5fsn8G6YaogAWxn/giphy.gif" height="400"  /></p> -->
 <p align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300"  /></p>
 
-
+---
 
 ### :man_technologist: &nbsp;About Me :
 
