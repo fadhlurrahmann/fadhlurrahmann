@@ -59,15 +59,15 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 <p align="center">
-  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-streak-stats.herokuapp.com?user=fadhlurrahmann&theme=dark&background=242327&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-streak-stats.herokuapp.com?user=fadhlurrahmann&theme=dark&background=333333&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=242327&layout=compact" /></a>
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=333333&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=242327&show_icons=true&hide=issues,contribs" /></a>
+  <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=333333&show_icons=true&hide=issues,contribs" /></a>
 </p>
   
 <!-- <p align="center">
