@@ -36,7 +36,7 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <!-- - 🌱 Exploring Technical Content Writing. -->
 - ⚡ In my free time I learn and improve my skill in Data field
 - 📫 How to reach me: &nbsp; 
-[<img src="https://img.shields.io/badge/Email-fadhlurrahmanhilmi0@gmail.com-red">](mailto:fadhlurrahmanhilmi@gmail.com)
+[<img src="https://img.shields.io/badge/Email-fadhlurrahmanhilmi@gmail.com-red">](mailto:fadhlurrahmanhilmi@gmail.com)
 
 ---
 
