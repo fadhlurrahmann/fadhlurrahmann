@@ -2,8 +2,9 @@
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=35&width=800&lines=Hello,+i'm+Hilmi;i'am+a+Data+Enthusiast">
   </a>
-</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h1>
+
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
@@ -21,13 +22,14 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+---
+
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 <!-- <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="600" height="300"/></p> -->
 <!-- <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="600" height="300"/></p> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y4ZDY4NTI2NWIyZTg5YzRhMzQ5N2U1NTQ5Y2Q0MDllMDg5NzkxNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jRf5fsn8G6YaogAWxn/giphy.gif" height="400"  /></p> -->
 <p align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="300"  /></p>
 
----
 
 ### :man_technologist: &nbsp;About Me :
 
