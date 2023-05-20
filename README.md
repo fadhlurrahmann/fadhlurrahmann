@@ -27,6 +27,7 @@
 <p align="center"><img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" height="400"  /></p>
 
 
+
 ### :man_technologist: &nbsp;About Me :
 
 I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
