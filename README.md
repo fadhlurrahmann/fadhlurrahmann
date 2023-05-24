@@ -50,7 +50,9 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 	<code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></code>
 	<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/></code>
 	<code><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/></code>
-	<code><img src="https://github.com/fadhlurrahmann/fadhlurrahmann/assets/64050390/737d8946-3583-4fb6-9570-21c90b85acb5" alt="matplotlib" width="50" height="50"/></code>
+	<code><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="50" height="50"/></code>
+	<code><img src="https://github.com/fadhlurrahmann/fadhlurrahmann/assets/64050390/45a24b85-559f-4b14-997e-9ea23a7d6291" alt="seaborn" width="50" height="50"/></code>
+	<code><img src="https://github.com/fadhlurrahmann/fadhlurrahmann/assets/64050390/fd954676-10b0-4eb1-a080-2104ebc9fcf6" alt="seaborn" width="50" height="50"/></code>
 
 </div>
 
