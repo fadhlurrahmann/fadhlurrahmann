@@ -78,10 +78,10 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=0c0c0c&layout=compact" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/fadhlurrahmann"><img src="https://github-readme-stats.vercel.app/api?username=fadhlurrahmann&theme=vision-friendly-dark&bg_color=0c0c0c&show_icons=true&hide=issues,contribs" /></a>
-</p>
-  
+</p> -->
+
 <!-- <p align="center">
   <a href="https://github.com/fadhlurrahmann"><img src="https://github-profile-trophy.vercel.app/?username=fadhlurrahmann&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p> -->
