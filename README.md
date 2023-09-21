@@ -31,7 +31,7 @@
 
 I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 🔭 I’m currently looking for a job, prefer as a Data Analyst
+- 🔭 I’m currently looking for a job, prefer as a Data Engineer
 <!-- - 🌱 Exploring Technical Content Writing. -->
 - ⚡ In my free time I learn and improve my skill in Data field
 - 📫 How to reach me: &nbsp; 
